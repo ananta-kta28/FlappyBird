@@ -15,6 +15,14 @@ This project is intended for learning and experimenting with Unity game developm
 - Clean UI built using Unity Canvas system
 
 ---
+## Screenshots
+
+### Gameplay Preview
+
+![Flappy Bird Gameplay](images/gameplay.png)
+![Flappy Bird Gameplay](images/gameplay1.png)
+![Flappy Bird Gameplay](images/gameplay2.png)
+
 
 ## How to Run
 
